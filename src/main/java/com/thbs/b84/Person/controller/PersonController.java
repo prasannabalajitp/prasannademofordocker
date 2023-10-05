@@ -16,7 +16,6 @@ import com.thbs.b84.repository.PersonRepository;
 
 
 @RestController
-//@RequestMapping("/persons")
 public class PersonController {
 
         @RequestMapping("/")
